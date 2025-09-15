@@ -16,7 +16,7 @@ LINK DA API: https://jsonplaceholder.typicode.com/
 - /todos	200 todos
 - /users	10 users
 
-## Vamos Praticar
+**Vamos Praticar**
 ## 01 GET (todos os registros):
 realizei uma requisição para obter todos os dados disponíveis, validando o status code e criando um script para verificar se a contagem de itens retornados estava correta.
 
